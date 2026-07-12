@@ -1,1 +1,2 @@
-print echo('Hello git no VSCode')
+mensagem = "Hello git no VSCode"
+print(mensagem)
