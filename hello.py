@@ -1,1 +1,1 @@
-print echo('hello git')
+print echo('Hello git no VSCode')
